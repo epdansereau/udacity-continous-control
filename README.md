@@ -2,6 +2,8 @@
 
 This project solves the Unity environment Reacher using a DDPG(Deep Deterministic Policy Gradient), with 20 agents learning in parallel. This environment has a state space of size 33 and an action space of size 4. We consider the environment solved when it we get an average score over 30 for 100 consecutive episodes.
 
+To train this model, follow the instructions bellow to install all dependencies, then change the path in cell 3 to the correct path of the environment and run all cells in the Continuous_Control.ipynb .
+
 ## Dependencies
 
 To install all dependencies on Ubuntu, follow the instructions below:
